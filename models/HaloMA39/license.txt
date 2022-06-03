@@ -1,0 +1,11 @@
+Model Information:
+* title:	Halo MA39 Assault Rifle
+* source:	https://sketchfab.com/3d-models/halo-ma39-assault-rifle-b0c9668f877b4b598a31abf91ee88425
+* author:	yon4z (https://sketchfab.com/yon4z)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Halo MA39 Assault Rifle" (https://sketchfab.com/3d-models/halo-ma39-assault-rifle-b0c9668f877b4b598a31abf91ee88425) by yon4z (https://sketchfab.com/yon4z) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

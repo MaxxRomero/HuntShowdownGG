@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "three": "^0.141.0"
+  },
+  "dev": "webpack-dev-server --open"
+}

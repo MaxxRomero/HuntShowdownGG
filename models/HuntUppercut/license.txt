@@ -1,0 +1,11 @@
+Model Information:
+* title:	Caldwell Conversion Uppercut
+* source:	https://sketchfab.com/3d-models/caldwell-conversion-uppercut-a7fceef1ddb4445caf29b9ebb455652c
+* author:	Blockster_9 (https://sketchfab.com/Blockster_9)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Caldwell Conversion Uppercut" (https://sketchfab.com/3d-models/caldwell-conversion-uppercut-a7fceef1ddb4445caf29b9ebb455652c) by Blockster_9 (https://sketchfab.com/Blockster_9) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

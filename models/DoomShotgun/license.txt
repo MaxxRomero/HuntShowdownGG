@@ -1,0 +1,11 @@
+Model Information:
+* title:	DOOM Supershotgun
+* source:	https://sketchfab.com/3d-models/doom-supershotgun-277049ab83f14ecc86551d2eb4931f48
+* author:	yon4z (https://sketchfab.com/yon4z)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "DOOM Supershotgun" (https://sketchfab.com/3d-models/doom-supershotgun-277049ab83f14ecc86551d2eb4931f48) by yon4z (https://sketchfab.com/yon4z) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
