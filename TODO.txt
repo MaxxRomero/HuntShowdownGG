@@ -1,2 +1,11 @@
 https://sketchfab.com/3d-models/caldwell-conversion-uppercut-a7fceef1ddb4445caf29b9ebb455652c
-TEST
+
+POST PROCESSING:
+https://www.youtube.com/watch?v=jmld3mIKBIo
+
+-Agregar sonido de arma
+-Mejorar UI
+-Buscar mas armas con animaciones
+-Recortar sonidos de las armas reales dentro del juego
+-Ver como crear la fuente de sonido y que se aleje
+-Agregar las distancias y entornos a medida que nos alejamos

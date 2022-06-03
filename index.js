@@ -13,7 +13,7 @@ init();
 animate();
 
 function init() {
-    container = document.createElement("div");
+    container = document.getElementById("canvas");
     container.appendChild(stats.dom);
     document.body.appendChild(container);
 
